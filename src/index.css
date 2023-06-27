@@ -1,0 +1,71 @@
+/* 
+--- COLORS ---
+Primary: #5CC0E8;
+Secondary: #687864;
+
+
+--- TEXTS ---
+1rem 10px
+1.33rem 13px 
+1.77rem 17px
+2.37rem 23px
+3.16rem 31px
+5.2rem 52px
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url("/node_modules/flag-icons/css/flag-icons.min.css");
+
+html {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+a:hover {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.studyContainer {
+  margin: 2rem auto;
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+}
+
+.fi:hover {
+  cursor: pointer;
+}
+
+.flag-not-active {
+  -webkit-filter: grayscale(80%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(80%);
+}
