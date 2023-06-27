@@ -36,7 +36,7 @@ const NavBar = () => {
     <AppBar position="static">
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
+          {/* <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
             <IconButton
               size="large"
               aria-controls="menu-appbar"
@@ -85,7 +85,7 @@ const NavBar = () => {
           <Box sx={{ display: 'flex', flexDirection: 'row', gap: '1rem', marginRight: '1rem'}}>
             <span className={`fi fi-it ${selectedLang !== 'it' && 'flag-not-active'}`} style={{ fontSize: '3rem'}} onClick={handleItClicked}></span>
             <span className={`fi fi-us ${selectedLang !== 'eng' && 'flag-not-active'}`} style={{ fontSize: '3rem'}} onClick={handleEngClicked}></span>
-          </Box>
+          </Box> */}
           <Typography variant="h3">
             LJPF
           </Typography>
