@@ -1,6 +1,7 @@
 import LessonSection from "components/LessonSection";
 import { useState, useEffect } from "react";
 import { Box } from "@mui/material";
+import lessonsFile from "data/lesson-1.json";
 
 type bodyType = {
   title: string,
@@ -14,20 +15,7 @@ type lessonType = {
 }
 
 const Discipleship1 = () => {
-  const [lessons, setLessons] = useState<lessonType[]>();
-
-  useEffect(() => {
-    getLesson(1);
-  }, []);
-
-  const getLesson = (lessonNumber: number) => {
-    console.log("Doing something");
-    fetch(`/src/data/lesson-${lessonNumber}.json`)
-      .then((response) => response.json())
-      .then((json) => {
-        setLessons(json)
-      });
-  }
+  const [lessons, setLessons] = useState<lessonType[]>(lessonsFile);
 
   return <div className={"studyContainer"}>
     {lessons?.map((lesson) => {
