@@ -34,6 +34,10 @@ const theme = createTheme({
     },
   },
   typography: {
+    fontFamily: [
+      "Roboto",
+      "Lato"
+    ].join(","),
     h3: {
       fontSize: '2.8rem'
     },
