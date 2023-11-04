@@ -1,12 +1,10 @@
-import Accordion from '@mui/material/Accordion';
-import AccordionSummary from '@mui/material/AccordionSummary';
-import AccordionDetails from '@mui/material/AccordionDetails';
-import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import VerseLink from "components/VerseLink";
-import { useState, useEffect } from 'react';
 import { Box } from '@mui/material';
-import { ThemeProvider, createTheme } from '@mui/material/styles';
+import Accordion from '@mui/material/Accordion';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import Typography from '@mui/material/Typography';
+import VerseLink from "components/VerseLink";
 
 
 type bodyType = {

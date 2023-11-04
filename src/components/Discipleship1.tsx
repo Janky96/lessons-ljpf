@@ -1,7 +1,7 @@
 import LessonSection from "components/LessonSection";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Box } from "@mui/material";
-import lessonsFile from "data/lesson-1.json";
+import lessonsFile from "data/discipleship-1.json";
 
 type bodyType = {
   title: string,

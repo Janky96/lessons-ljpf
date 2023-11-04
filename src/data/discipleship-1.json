@@ -428,5 +428,128 @@
         ]
       }
     ]
-  }
+  },
+  {
+    "lessonNumber": "Lezione 6",
+    "subtitleLesson": "La Bibbia",
+    "body": [
+      {
+        "title": "1. Cosa stiamo facendo ora con la Bibbia?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "2. Cosa ti piace fare di più con la tua Bibbia?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "3. Che atteggiamento/attitudine trovi nei seguenti versetti?",
+        "verses": [
+          "JOB.23€Giobbe 23:12",
+          "JER.15€Geremia 15:16"
+        ]
+      },
+      {
+        "title": "4. Come fare per avere più desidero della parola di Dio.",
+        "verses": [
+        ]
+      },
+      {
+        "title": "5. Quali sono i rischi se non conosciamo la parola di Dio?",
+        "verses": [
+          "MAT.22€Matteo 22:29"
+        ]
+      },
+      {
+        "title": "6. Che relazione c'è nel conoscere la parola di Dio e conoscere la Sua potenza?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "7. Quali sono i quattro obiettivi più importanti che la Bibbia adempie?",
+        "verses": [
+          "2TI.3€2 Timoteo 3:16-17"
+        ]
+      },
+      {
+        "title": "8. Che insegnamento trovi in 2 Timoteo 2:15?",
+        "verses": [
+          "2TI.3€2 Timoteo 2:15"
+        ]
+      },
+      {
+        "title": "9. Che esempio dovremmo seguire in Atti 17:11?",
+        "verses": [
+          "ACT.17€Atti 17:11"
+        ]
+      },
+      {
+        "title": "10. Come potresti seguire l'esempio?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "11. Quali attività nella tua vita spirituale sono basate sulla conoscenza della Bibbia?",
+        "verses": [
+          "COL.3€Colossesi 3:16"
+        ]
+      }
+    ]
+  },
+  {
+    "lessonNumber": "Lezione 7",
+    "subtitleLesson": "Evangelizzazione",
+    "body": [
+      {
+        "title": "1. Qual è il piano di Dio per noi?",
+        "verses": [
+          "JHN.15€Giovanni 15:16"
+        ]
+      },
+      {
+        "title": "2. Perché a volte condividi la parola di Dio e a volte no?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "3. Nei quattro vangeli e negli Atti degli apostoli, ci è stato detto di evangelizzare. Quali punti chiave trovi nei seguenti versetti?",
+        "verses": [
+          "MAT.28€Matteo 28:18-20",
+          "MRK.16€Marco 16:15-16",
+          "LUK.24€Luca 24:46-48",
+          "JHN.20€Giovanni 20:21",
+          "ACT.1€Atti 1:8"
+        ]
+      },
+      {
+        "title": "4. Cosa potresti fare per evangelizzare di più?",
+        "verses": [
+        ]
+      },
+      {
+        "title": "5. Cosa è richiesto nell'evangelizzazione?",
+        "verses": [
+          "ACT.5€Atti 5:42",
+          "ACT.14€Atti 14:21-23",
+          "1PE.3€1 Pietro 3:15-16"
+        ]
+      },
+      {
+        "title": "6. Dai la tua testimonianza in semplici e poche parole.",
+        "verses": [
+        ]
+      },
+      {
+        "title": "7. Perché hai la speranza di una vita eterna?",
+        "verses": [
+          "1TI.2€1 Timoteo 2:5",
+          "ROM.3€Romani 3:23-24",
+          "2TH.1€2 Tessalonicesi 1:8-9",
+          "1PE.2€1 Pietro 3:18",
+          "JHN.1€Giovanni 1:12"
+        ]
+      }
+    ]
+  } 
 ]
